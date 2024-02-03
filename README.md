@@ -1,3 +1,4 @@
+
 # Go Key Generator
 
 This repository contains a simple key generator written in Go. The key generator can be used to generate secure and unique keys for various purposes, such as authentication, encryption, or any other scenario where a reliable key is required.
